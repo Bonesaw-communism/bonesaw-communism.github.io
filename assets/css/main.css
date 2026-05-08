@@ -80,10 +80,11 @@ a:hover { color: var(--rust); border-bottom-color: var(--rust); }
 }
 
 .masthead-mark {
-  width: 90px;
-  height: 45px;
+  width: 80px;
+  height: 80px;
   color: var(--ink);
   flex-shrink: 0;
+  object-fit: contain;
 }
 
 .masthead-text { display: flex; flex-direction: column; }
