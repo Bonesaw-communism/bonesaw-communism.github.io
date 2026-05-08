@@ -141,26 +141,26 @@ discipline of cutting away dead bone before it kills the patient.
 
 ## Notes
 
-[^draper-anatomy]: Hal Draper, [*Toward a New Beginning: On Another Road*](https://www.marxists.org/archive/draper/1971/alt/alt.htm) (1971), ch. 3 ("Anatomy of the sect"). Reproduced in your project files. I have not live-fetched this URL in this session and so cannot guarantee it currently resolves; the text itself is verifiable in the file `Hal_Draper__Toward_a_New_Beginning_-_On_Another_Road__1971_.htm` in the project knowledge base.
+[^draper-anatomy]: Hal Draper, [*Toward a New Beginning: On Another Road*](https://www.marxists.org/archive/draper/1971/alt/alt.htm) (1971), ch. 3 ("Anatomy of the sect").
 
-[^luxemburg]: Rosa Luxemburg, "Organisational Questions of Russian Social Democracy" (1904), in *Selected Political Writings of Rosa Luxemburg*. Verified against the project file `Selected-political-writings-of-Rosa-Luxemburg_compressed.pdf`. The same essay is hosted on the [Marxists Internet Archive](https://www.marxists.org/archive/luxemburg/1904/questions-rsd/) but I have not live-fetched that URL.
+[^luxemburg]: Rosa Luxemburg, "Organisational Questions of Russian Social Democracy" (1904), in *Selected Political Writings of Rosa Luxemburg*. 
 
-[^luxemburg-spirit]: Same essay, same source. The phrasing "coordinating, synthetic character and not a regulative and exclusive one" appears in section II of the text in the project file.
+[^luxemburg]: Rosa Luxemburg, "Organisational Questions of Russian Social Democracy" (1904), in *Selected Political Writings of Rosa Luxemburg*. 
 
-[^trotsky-1904]: Cited in Chris Harman, [*Party and Class*](https://www.marxists.org/archive/harman/1968/xx/partyclass.htm) (Winter 1968–69), n. 28. The original Trotsky text is *Our Political Tasks* (1904). I have verified the Harman quotation against the file `Chris_Harman__Party_and_Class__Winter_1968_69_.txt` in your project. The Marxists Internet Archive URL is given for completeness; I have not live-fetched it.
+[^trotsky-1904]: Cited in Chris Harman, [*Party and Class*](https://www.marxists.org/archive/harman/1968/xx/partyclass.htm) (Winter 1968–69), n. 28. The original Trotsky text is *Our Political Tasks* (1904). 
 
-[^smith-civil-war]: S. A. Smith, *Russia in Revolution: An Empire in Crisis, 1890 to 1928* ([Oxford University Press, 2017](https://global.oup.com/academic/product/russia-in-revolution-9780198734826)). Verified against the project file `Russia_in_Revolution___An_Empire_in_Crisis...epub`. URL not live-fetched.
+[^smith-civil-war]: S. A. Smith, *Russia in Revolution: An Empire in Crisis, 1890 to 1928* ([Oxford University Press, 2017](https://global.oup.com/academic/product/russia-in-revolution-9780198734826)). 
 
-[^farber-dc]: Samuel Farber, *Before Stalinism: The Rise and Fall of Soviet Democracy* ([Verso, 1990](https://www.versobooks.com/products/3-before-stalinism)), p. 175. Verified against the project file `Before_Stalinism___the_rise_and_fall_of_Soviet_democracy_--_Samuel_Farber...pdf`. URL not live-fetched.
+[^farber-dc]: Samuel Farber, *Before Stalinism: The Rise and Fall of Soviet Democracy* ([Verso, 1990](https://www.versobooks.com/products/3-before-stalinism)), p. 175. 
 
-[^smith-swamp]: Lenin's "foul, bureaucratic swamp" remark is quoted in Smith, *Russia in Revolution*, ch. on the 1920s. Verified against the project file. The original is from Lenin's late writings. URL not live-fetched.
+[^smith-swamp]: Lenin's "foul, bureaucratic swamp" remark is quoted in Smith, *Russia in Revolution*, ch. on the 1920s. 
 
-[^smith-clientelism]: Smith, *Russia in Revolution*, same chapter. The phrases "bureaucracy galvanized by clientelism," "personal fiefdoms," and "family circles" are direct quotations. Verified against the project file.
+[^smith-clientelism]: Smith, *Russia in Revolution*, same chapter. The phrases "bureaucracy galvanized by clientelism," "personal fiefdoms," and "family circles" are direct quotations.
 
-[^farber-dc-cure]: Farber, *Before Stalinism*, p. 175, on the Democratic Centralists' attempt to "combat bureaucracy by bureaucratic means." Verified against the project file.
+[^farber-dc-cure]: Farber, *Before Stalinism*, p. 175, on the Democratic Centralists' attempt to "combat bureaucracy by bureaucratic means." 
 
-[^harman]: Chris Harman, *Party and Class*, section on Luxemburg. Verified against the project file. See note 4 above.
+[^harman]: Chris Harman, *Party and Class*, section on Luxemburg. 
 
-[^freeman]: Jo Freeman, "The Tyranny of Structurelessness," p. 243. Verified against the project file `Freeman1970.pdf`. The essay is widely reprinted; the canonical version is hosted at [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm) but I have not live-fetched that URL.
+[^freeman]: Jo Freeman, "The Tyranny of Structurelessness," p. 243. Verified against the project file `Freeman1970.pdf`. The essay is widely reprinted; the canonical version is hosted at [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm)
 
-[^draper-road]: Draper, *Toward a New Beginning*, ch. 2 ("Marx: the negative side"). Verified against the project file. The line "There is a road to a revolutionary party which is not the road of the sect" appears as an italicised conclusion in that chapter.
+[^draper-road]: Draper, *Toward a New Beginning*, ch. 2 ("Marx: the negative side"). The line "There is a road to a revolutionary party which is not the road of the sect" appears as an italicised conclusion in that chapter.
