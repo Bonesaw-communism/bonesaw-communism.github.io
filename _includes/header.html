@@ -1,12 +1,10 @@
 <header class="site-header">
   <div class="header-inner">
     <a class="masthead" href="{{ '/' | relative_url }}" aria-label="Bonesaw, return to front page">
-      <svg class="masthead-mark" viewBox="0 0 80 40" aria-hidden="true">
-        <!-- A bonesaw glyph: handle, blade, teeth -->
-        <rect x="2" y="16" width="14" height="8" rx="2" fill="currentColor"/>
-        <rect x="16" y="18" width="60" height="4" fill="currentColor"/>
-        <path d="M16 22 L20 26 L24 22 L28 26 L32 22 L36 26 L40 22 L44 26 L48 22 L52 26 L56 22 L60 26 L64 22 L68 26 L72 22 L76 26 L76 22 Z" fill="currentColor"/>
-      </svg>
+      <img class="masthead-mark"
+     src="{{ '/assets/img/masthead.png' | relative_url }}"
+     alt="Bonesaw masthead"
+     width="90" height="45">
       <span class="masthead-text">
         <span class="masthead-title">BONESAW</span>
         <span class="masthead-tagline">{{ site.tagline }}</span>
