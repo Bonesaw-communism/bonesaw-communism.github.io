@@ -161,6 +161,6 @@ discipline of cutting away dead bone before it kills the patient.
 
 [^harman]: Chris Harman, *Party and Class*, section on Luxemburg. 
 
-[^freeman]: Jo Freeman, "The Tyranny of Structurelessness," p. 243. Verified against the project file `Freeman1970.pdf`. The essay is widely reprinted; the canonical version is hosted at [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm)
+[^freeman]: Jo Freeman, "The Tyranny of Structurelessness," p. 243. The essay is widely reprinted; the canonical version is hosted at [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm)
 
 [^draper-road]: Draper, *Toward a New Beginning*, ch. 2 ("Marx: the negative side"). The line "There is a road to a revolutionary party which is not the road of the sect" appears as an italicised conclusion in that chapter.
