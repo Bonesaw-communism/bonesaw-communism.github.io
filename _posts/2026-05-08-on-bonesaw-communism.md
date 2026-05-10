@@ -37,7 +37,7 @@ organisations simply as the tools which implement its decisions."[^luxemburg]
 She did not deny that centralism was a real tendency in social
 democracy. She insisted instead that "Social Democratic centralism has
 most of all a coordinating, synthetic character and not a regulative
-and exclusive one,"[^luxemburg-spirit] and warned that no statute
+and exclusive one,"[^luxemburg] and warned that no statute
 could substitute for the political life that gave statutes their
 meaning.
 
